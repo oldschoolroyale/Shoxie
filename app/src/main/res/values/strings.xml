@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">RemindMe Beta</string>
     <string name="search">Search</string>
+    <string name="Notification">Напоминание</string>
+    <string name="favoriet">Избранное</string>
+    <string name="Downloads">Архив</string>
+    <string name="Settings">Настройки</string>
+    <string name="help">Справка</string>
 </resources>
